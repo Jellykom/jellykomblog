@@ -1,0 +1,38 @@
+{
+  "name": "Jellykom.com",
+  "short_name": "Jellykom",
+  "start_url": "https://www.jellykom.com/?m=1",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Blog yang membahas tentang tutorial, tips trik komputer dan android serta internet terupdate .",
+  "icons": [{
+    "src": "https://4.bp.blogspot.com/-DJvaq65t50I/XI8oMtHnhjI/AAAAAAAACpE/SDNQOtZrkaQVJl1LV32Z-pqLnmAWQ3sogCLcBGAs/s1600/Logo_Jellykom.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-DJvaq65t50I/XI8oMtHnhjI/AAAAAAAACpE/SDNQOtZrkaQVJl1LV32Z-pqLnmAWQ3sogCLcBGAs/s1600/Logo_Jellykom.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-DJvaq65t50I/XI8oMtHnhjI/AAAAAAAACpE/SDNQOtZrkaQVJl1LV32Z-pqLnmAWQ3sogCLcBGAs/s1600/Logo_Jellykom.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-DJvaq65t50I/XI8oMtHnhjI/AAAAAAAACpE/SDNQOtZrkaQVJl1LV32Z-pqLnmAWQ3sogCLcBGAs/s1600/Logo_Jellykom.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-DJvaq65t50I/XI8oMtHnhjI/AAAAAAAACpE/SDNQOtZrkaQVJl1LV32Z-pqLnmAWQ3sogCLcBGAs/s1600/Logo_Jellykom.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-DJvaq65t50I/XI8oMtHnhjI/AAAAAAAACpE/SDNQOtZrkaQVJl1LV32Z-pqLnmAWQ3sogCLcBGAs/s1600/Logo_Jellykom.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-DJvaq65t50I/XI8oMtHnhjI/AAAAAAAACpE/SDNQOtZrkaQVJl1LV32Z-pqLnmAWQ3sogCLcBGAs/s1600/Logo_Jellykom.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
